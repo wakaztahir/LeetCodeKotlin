@@ -1,5 +1,7 @@
 import backspacecompare.backspaceCompare
+import nonrepeatingsubstring.lengthOfLongestSubstring
 
 fun main(){
-    backspaceCompare("ab#c","ad#c")
+    print(
+        lengthOfLongestSubstring("abcabcbb"))
 }
