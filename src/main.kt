@@ -1,3 +1,5 @@
+import backspacecompare.backspaceCompare
+
 fun main(){
-    print("Hello World")
+    backspaceCompare("ab#c","ad#c")
 }
